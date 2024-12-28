@@ -1,6 +1,4 @@
 # Coursera-IBM-Cybersecurity-Analyst-Capstone-
-Final Project - Breach Case Study
-
 Final Project - Breach Response Case Study
 
 SOURCE: Data Breaches That Have Happened in 2022, 2023 and 2024 So Far - https://tech.co/news/data-breaches-updated-list
